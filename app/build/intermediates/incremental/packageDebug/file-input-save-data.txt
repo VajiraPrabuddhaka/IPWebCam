@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Sep 06 12:15:03 IST 2017
+2.base=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/res/resources-debug.ap_/res/xml/preferences.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_73000d1986ae092382bc296aeed44e222e1b2ba4
+6.file=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fa38c11fc931e03e8486cfcee816167d111dfda9/classes.dex
+2.set=ANDROID_RESOURCE
+4.base=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/res/resources-debug.ap_/res/layout/mylayout.xml
+5.base=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fa38c11fc931e03e8486cfcee816167d111dfda9
+1.file=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher_peepers.png
+1.set=ANDROID_RESOURCE
+7.base=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+6.set=DEX
+0.base=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_73000d1986ae092382bc296aeed44e222e1b2ba4/classes.dex
+3.set=DEX
+1.base=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+0.set=ANDROID_RESOURCE

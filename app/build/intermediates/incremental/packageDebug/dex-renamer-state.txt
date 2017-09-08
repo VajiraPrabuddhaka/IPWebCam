@@ -1,0 +1,7 @@
+#Thu Sep 07 18:11:35 IST 2017
+base.0=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fa38c11fc931e03e8486cfcee816167d111dfda9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_73000d1986ae092382bc296aeed44e222e1b2ba4/classes.dex
+base.1=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_73000d1986ae092382bc296aeed44e222e1b2ba4
+file.0=/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fa38c11fc931e03e8486cfcee816167d111dfda9/classes.dex

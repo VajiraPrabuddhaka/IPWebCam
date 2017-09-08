@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/home/vajira/AndroidStudioProjects/IPWebCam/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/home/vajira/AndroidStudioProjects/IPWebCam/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 666,
+                        "endColumn": 44,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 45,
+                    "endOffset": 141
+                },
+                "from": {
+                    "file": "/home/vajira/AndroidStudioProjects/IPWebCam/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 45,
+                        "endOffset": 752
+                    }
+                }
+            }
+        ]
+    }
+]
